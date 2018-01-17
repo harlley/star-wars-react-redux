@@ -1,0 +1,16 @@
+@fontface {
+  font-family: 'Lato', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Lato:300,400')
+}
+
+* { margin: 0; padding: 0; }
+li { list-style: none; }
+a { text-decoration: none; }
+body { 
+  font-size: 20px;
+  background-color: #000;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #666;
+}  
+
